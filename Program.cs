@@ -1,1 +1,1 @@
-System.Console.WriteLine("HEj");
+Console.WriteLine("Hej");
